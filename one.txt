@@ -1,5 +1,3 @@
 one 
 two
 bonjour
-
-ANOTHER FEATURES TO BE FINISHED SOON.......
